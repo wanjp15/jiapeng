@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jiapeng/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jiapeng/static/js/main.f123528a.chunk.js",
+    "main.js.map": "/jiapeng/static/js/main.f123528a.chunk.js.map",
+    "runtime-main.js": "/jiapeng/static/js/runtime-main.56198bd6.js",
+    "runtime-main.js.map": "/jiapeng/static/js/runtime-main.56198bd6.js.map",
+    "static/js/2.f450c5a8.chunk.js": "/jiapeng/static/js/2.f450c5a8.chunk.js",
+    "static/js/2.f450c5a8.chunk.js.map": "/jiapeng/static/js/2.f450c5a8.chunk.js.map",
+    "index.html": "/jiapeng/index.html",
+    "precache-manifest.046aba1608afa2bfa547ab62c8aea111.js": "/jiapeng/precache-manifest.046aba1608afa2bfa547ab62c8aea111.js",
+    "service-worker.js": "/jiapeng/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jiapeng/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f450c5a8.chunk.js.LICENSE.txt": "/jiapeng/static/js/2.f450c5a8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jiapeng/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56198bd6.js",
+    "static/js/2.f450c5a8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f123528a.chunk.js"
+  ]
+}
